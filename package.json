@@ -1,0 +1,26 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Test codes for javascript",
+  "main": "sample1.js",
+  "scripts": {
+    "test": "node sample1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoChigusa/JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "So Chigusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoChigusa/JavaScript/issues"
+  },
+  "homepage": "https://github.com/SoChigusa/JavaScript#readme",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
